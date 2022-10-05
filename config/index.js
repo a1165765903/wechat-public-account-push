@@ -106,15 +106,15 @@ export const config = {
    */
 
   // 【推送完成提醒】模板id, 用来看自己有没有发送成功的那个模板
-  CALLBACK_TEMPLATE_ID:"Y19r35UnT_MbaJNXhhseZ7cJSCS0y0Zk1JvPaJsHuPA",
+  CALLBACK_TEMPLATE_ID:"",
 
   // 接收成功回调消息的微信号，（一般来说只填自己的微信号, name填不填无所谓）
   CALLBACK_USERS: [
     {
       // 一般都填自己
-      name:"自己", 
+      name:"", 
       // 自己的微信id，扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
-      id: "o9ChR6Z7b1gw7RAQZttbF-IxwmWc",
+      id: "",
     },
     // 你可以不断按格式往下增加
     // ...
