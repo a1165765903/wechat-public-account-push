@@ -13,7 +13,7 @@ export const config = {
   // 如果你非要填这里也行。脚本也能运行
   APP_SECRET: "3f22f776dae100af1cb85eb6d4684655",
   //模板ID
-  TEMPLATE_ID: "Y19r35UnT_MbaJNXhhseZ7cJSCS0y0Zk1JvPaJsHuPA",
+  TEMPLATE_ID: "Y19r35UnT_MbaJNXhhseZ7cJSCS0y0Zk1JvPaJsHuPA"
   USERS:["o9ChR6Z7b1gw7RAQZttbF-IxwmWc"],
   // 是否给文字设置多彩颜色, 和emoji不兼容
   // 如果您使用了微信测试号的模板中含有emoji表情，请填 false
